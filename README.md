@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello, I'm Pavan sabavat</h1>
+<h1 align="center">Hello, I'm PavanSabavat </h1>
 <h3 align="center">A Passionate Data Science Learner</h3>
 <img align="right" alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shanuhalli&label=Profile%20views&color=0e75b6&style=flat" alt="pavansabavat" height="25" width="150" /></p>
@@ -27,7 +27,7 @@
 ## `Projects:`
 
 ### [Resume Classification](https://github.com/Pavansabavat/My_portofolio)
-### [Handson WIth  ML ](https://github.com/Pavansabavat/Machine_Learning-Deep_Learning/tree/main/PROJECTS%20%20%20ML/Bankig%20and%20Churn)
+### [ML &  DL  ](https://github.com/Pavansabavat/Machine_Learning-Deep_Learning/tree/main/PROJECTS%20%20%20ML/Bankig%20and%20Churn)
 
 
 
