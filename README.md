@@ -1,22 +1,41 @@
+ # Hey! Nice to see you.
 
+<h2 align="center">Hi, I'm PavanKumar </h2>
 
-<h1 align="center">Hello, I'm SABAVAT PAVAN KUMAR  </h1>
+## **ABOUT ME**
 
-<h3 align="center">A Passionate Data Science Learner</h3>
+- 🔭 I’m currently looking   for   **Data Scientist roles**
+
+- 🌱 I’m currently working on **Machine Learnring, NLP, MLOps Tools (MLFLOW, DVC), PyTorch.**
+
+- 💻 Check my Projects and other Repos [HERE.](https://github.com/Pavansabavat)
+
+- 👨‍💻 Completed **Data Analytics and  Data Science certificates.**
 
 <img align="right" alt="coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
 <p align="left"><img src="https://komarev.com/ghpvc/?username=shanuhalli&label=Profile%20views&color=0e75b6&style=flat" alt="pavansabavat" height="25" width="150" /></p>
 
 
-🌱 I’m currently working on Machine Learnring, NLP, MLOps Tools (MLFLOW), PyTorch.
 
-👨‍💻 Completed Data Analytics and  Data Science certificates.
+## **LANGUAGES AND TOOLS**
 
-🔹💬 Ask me about **Data Science, Machine Learning and Deep Learning**
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"      /> </a> 
+    <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"> </a>
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> </a>
+    <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> </a> 
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> </a> 
+    <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a
+    <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></a>
+     <a href="https://streamlit.io/" target="_blank"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/> </a> 
+    <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/> </a>
+</p>
+<br/>
 
-🔹👯 I’m looking to collaborate on **all topics related to Data Science**
 
-## `Connect with me`
+## **CONNECT WITH ME**:
 <div>
 <p align="left">
 <a href="https://www.linkedin.com/in/pa1-330719244/" target="_blank"><img alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &emsp;
@@ -26,13 +45,4 @@
 </p>
 </div>
 
-## `Projects:`
 
-### [Resume Classification](https://github.com/Pavansabavat/My_portofolio)
-### [ML &  DL  ](https://github.com/Pavansabavat/Machine_Learning-Deep_Learning/tree/main/PROJECTS%20%20%20ML/Bankig%20and%20Churn)
-### [internsavy  ](https://github.com/Pavansabavat/Internsavy)
-
-<!---
-Pavansabavat/Pavansabavat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
