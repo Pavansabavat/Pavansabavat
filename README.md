@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently looking   for   **Data Scientist roles**
 
-- 🌱 I’m currently working on **Machine Learnring, NLP, MLOps Tools (MLFLOW, DVC), PyTorch.**
+- 🌱 I’m currently working on **Machine Learnring, NLP, MLOps Tools (MLFLOW), PyTorch.**
 
 - 💻 Check my Projects and other Repos [HERE.](https://github.com/Pavansabavat)
 
