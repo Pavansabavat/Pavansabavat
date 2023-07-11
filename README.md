@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently working on **Machine Learnring, NLP, MLOps Tools (MLFLOW), PyTorch.**
 
-- 💻 Check my Projects and other Repos [HERE.](https://github.com/Pavansabavat)
+- 💻 Check my Projects and other Repos [HERE.](https://github.com/Pavansabavat?tab=repositories)
 
 - 👨‍💻 Completed **Data Analytics and  Data Science certificates.**
 
