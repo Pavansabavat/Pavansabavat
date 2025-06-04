@@ -4,7 +4,7 @@
 
 ## **ABOUT ME**
 
-- 🔭 I’m currently looking   for   **Data Scientist roles**
+- 🔭 I’m currently Working  as    **Data Scientist **
 
 - 🌱 I’m currently working on **Machine Learnring, NLP, MLOps Tools (MLFLOW), Deep Learning .**
 
